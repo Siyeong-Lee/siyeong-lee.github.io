@@ -5,3 +5,6 @@
 .name-note{max-width:680px;padding-top:32px;font-size:13px;line-height:1.8;color:var(--muted)}
 .name-note+.hero{padding-top:48px}
 @media(max-width:760px){.name-note+.hero{padding-top:32px}}
+
+.wordmark{display:inline-flex;align-items:center;gap:12px;white-space:nowrap}
+.wordmark-icon{width:28px;height:28px;flex:none;color:var(--accent)}
