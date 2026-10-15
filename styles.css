@@ -3,3 +3,5 @@
 @media(max-width:480px){.masthead{gap:12px;flex-wrap:wrap}nav{gap:16px;flex-wrap:wrap}.hero-links{gap:16px;flex-wrap:wrap}.hero-links a{min-height:44px;display:inline-flex;align-items:center}h1{font-size:60px}}
 
 .name-note{max-width:680px;padding-top:32px;font-size:13px;line-height:1.8;color:var(--muted)}
+.name-note+.hero{padding-top:48px}
+@media(max-width:760px){.name-note+.hero{padding-top:32px}}
