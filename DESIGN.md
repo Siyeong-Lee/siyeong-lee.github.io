@@ -2,7 +2,7 @@
 ## Source of truth
 Active · 2026-10-15. New English academic website, GitHub Pages. No pre-existing site or assets. Evidence: public Google Scholar iGSaIU0AAAAJ and GitHub Siyeong-Lee; primary publication pages.
 ## Brand
-Site name: A Thought. A brief personal note above the footer explains its inspiration from The Odyssey, using the wording approved by the site owner.
+Site name: A Thought. A brief personal note below the masthead and above the introduction explains its inspiration from The Odyssey, using the wording approved by the site owner.
 Quiet, precise, editorial. Trust comes from linked research. Avoid fabricated biography, stock portraits, marketing claims, and invented credentials.
 ## Product goals
 Introduce Siyeong Lee, communicate research, make papers and code easy to find. Success: readable on mobile and desktop, functional publication filters, direct source links.
