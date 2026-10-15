@@ -29,3 +29,10 @@ Checked 2026-10-15.
 Research descriptions are editorial summaries of these interests and publications. Decorative SVG is original abstract art, not an experimental result. No unverified awards, degree field, photo, or contact details were added.
 
 - Deep Chain HDRI, IEEE Access 2018; author-maintained project and VDS dataset: https://siyeong-lee.github.io/hdr_vds_dataset/
+
+## Icons
+
+- Sailboat by Lucide: https://lucide.dev/icons/sailboat
+  - Approved by the site owner for the A Thought wordmark and favicon after reviewing icon previews.
+  - A generic voyage motif inspired by The Odyssey; it is not an official film logo.
+  - ISC license: https://lucide.dev/license ; full notice in THIRD_PARTY_NOTICES.txt and favicon.svg.
