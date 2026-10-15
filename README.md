@@ -1,11 +1,5 @@
 # Siyeong Lee — Academic profile
 
-An English, responsive academic profile for GitHub Pages. Plain HTML, CSS, and JavaScript; no build step or dependencies.
-
-## Preview
-
-Run `python3 -m http.server 8000` in this folder, then visit http://localhost:8000.
-
 ## Publish on GitHub Pages
 
 Repository: `Siyeong-Lee/siyeong-lee.github.io` (if no existing user site occupies it).
