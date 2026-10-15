@@ -9,11 +9,15 @@ Checked 2026-10-15.
   - Researcher at NAVER LABS, 2019–present; Sogang University master's studies 2017–2019 and undergraduate studies 2011–2017; MS advisor Suk-Ju Kang.
   - Expertise: Agent-Centric Perception, Multi-modal Foundation Model, 3D Object detection, Mutual Information Estimation, Self-supervised Learning, Deep Image Restoration.
   - LinkedIn profile link.
-  - Submission records are not evidence of acceptance. The site does not publish private reviews, pending submission details, or duplicate manuscript versions.
+  - Submission records are not evidence of acceptance. The site does not publish private reviews or pending submission details. Earlier manuscript versions are labeled explicitly when listed at the site owner’s request.
 - GitHub: https://github.com/Siyeong-Lee
   - Open-source repository identity and implementation links.
 
 ## Selected papers
+
+- Regularized Mutual Information Neural Estimation, earlier preprint (2020): https://openreview.net/forum?id=Lvb2BKqL49a
+  - Public forum dated 29 September 2020; authors Kwanghee Choi and Siyeong Lee. The ICLR 2021 blind-submission label is not evidence of acceptance.
+  - Original arXiv version: https://arxiv.org/abs/2011.07932v1 ; later versions were retitled as the UAI 2022 paper listed below. The website labels the earlier version and links to its published version.
 
 - VERIA, arXiv preprint (2026): https://arxiv.org/abs/2603.24294
 - RoAD Benchmark, arXiv preprint (2026, v2 title): https://arxiv.org/abs/2601.07855
